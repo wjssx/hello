@@ -12,3 +12,5 @@ Licese
 123456
 
 branch
+
+Creating a new branch is quick AND simple.
